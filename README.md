@@ -5,4 +5,4 @@ hsobel , vsobel , laplasian , prewitt , cv2.Laplacian , Canny .
 
 https://colab.research.google.com/drive/1HYZl8ZTKCcppPFuABFnn2EvWw13RsNQo?usp=sharing
 
-!curl [https://colab.chainer.org/install](https://colab.research.google.com/drive/1HYZl8ZTKCcppPFuABFnn2EvWw13RsNQo?usp=sharing) | sh -
+[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg](https://colab.research.google.com/drive/1HYZl8ZTKCcppPFuABFnn2EvWw13RsNQo?usp=sharing))](https://colab.research.google.com/github/weiji14/deepbedmap/]
