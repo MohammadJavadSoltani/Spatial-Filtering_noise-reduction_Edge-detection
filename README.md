@@ -4,3 +4,5 @@ hsobel , vsobel , laplasian , prewitt , cv2.Laplacian , Canny .
 
 
 https://colab.research.google.com/drive/1HYZl8ZTKCcppPFuABFnn2EvWw13RsNQo?usp=sharing
+
+!curl [https://colab.chainer.org/install](https://colab.research.google.com/drive/1HYZl8ZTKCcppPFuABFnn2EvWw13RsNQo?usp=sharing) | sh -
